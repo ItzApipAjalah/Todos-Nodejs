@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "A clean Todo List application with MVC architecture",
+  "description": "Todo List application with MVC architecture",
   "dependencies": {
     "@supabase/supabase-js": "^2.48.1",
     "body-parser": "^1.20.2",
